@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in VBScript: the lack of function overloading. The `bug.vbs` file showcases the problem, where defining multiple functions with the same name leads to only the last one being executed. The `bugSolution.vbs` file provides a workaround using conditional logic to achieve similar functionality.
